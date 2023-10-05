@@ -1,2 +1,2 @@
 # jogo_mario
- Jogo feito em Js
+https://israelsturaro.github.io/jogo_mario/Mario/
